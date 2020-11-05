@@ -1,0 +1,25 @@
+{
+  "name": "chat_test",
+  "version": "1.0.0",
+  "description": "test chat",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KaterinaZv/chat_test.git"
+  },
+  "keywords": [
+    "node.js",
+    "docker",
+    "http",
+    "api"
+  ],
+  "author": "Zvereva Katya <zverevaekaterina025@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaterinaZv/chat_test/issues"
+  },
+  "homepage": "https://github.com/KaterinaZv/chat_test#readme"
+}
